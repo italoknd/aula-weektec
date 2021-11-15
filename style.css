@@ -17,15 +17,6 @@
     --colorPerfil:#ffffff;
 }
 
-html{
-    @media(max-width: 1080px){
-        font-size: 93.75%;
-    }
-    @media(max-width: 768px){
-        font-size: 85.3%
-    }
-}
-
 body{
     font-family: sans-serif;
     color: var(--color);
