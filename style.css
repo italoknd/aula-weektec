@@ -127,7 +127,7 @@ body{
 }
 
 .links{
-    animation: links .5s .2s ease-in-out forwards;
+    animation: links .7s .1s ease-in-out forwards;
     transform-origin: center;
     transform-box: fill-box;
     transform: translateY(400px);
