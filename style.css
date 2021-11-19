@@ -281,6 +281,7 @@ body {
     transform-box: fill-box;
     transform: translateY(700px);
   }
+  
   @keyframes skills {
     0% {
       opacity: 0;
